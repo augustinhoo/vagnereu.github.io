@@ -1,0 +1,42 @@
+[
+    {
+        wallpaper: "Poker1",
+        id: 1,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/1.png"
+    },
+    {
+        wallpaper: "Poker2",
+        id: 2,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/2.jpg"
+    },
+    {
+        wallpaper: "Poker3",
+        id: 3,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/3.png"
+    },
+    {
+        wallpaper: "Poker4",
+        id: 4,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/4.png"
+    },
+    {
+        wallpaper: "Poker5",
+        id: 5,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/5.png"
+    },
+    {
+        wallpaper: "Poker6",
+        id: 6,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/6.png"
+    },
+    {
+        wallpaper: "Poker7",
+        id: 7,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/7.png"
+    },
+    {
+        wallpaper: "Poker8",
+        id: 8,
+        imagem: "https://raw.githubusercontent.com/vagneraugus/imgs/master/8.png"
+    }
+]

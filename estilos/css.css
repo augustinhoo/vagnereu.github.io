@@ -1,0 +1,104 @@
+body{
+	font-family: arial;
+	font-size: 16px;
+}
+#cabecalho_inicio{
+		font-size: 30px;
+		color: #369;
+		font-weight: bold;
+	}
+
+span{
+	color: #369;
+	font-size: 18px;
+}
+
+nav{
+	color: #369;
+}
+
+#menu{  
+	/*background: #369;*/  
+	height: 50px;  
+	position: relative;  
+	margin: 0;  
+	padding: 0;  
+	list-style: none;  
+	min-width: 500px;  
+	z-index: 1;
+}  
+
+li{
+	margin-right: 30px;
+}
+
+#menu > li{  
+	float: left;  
+	/*border-left: 1px solid #379;  
+	border-right: 1px solid #359;  
+	/*background: #369;*/  
+}  
+#menu li a{  
+	display: block;  
+	padding: 10px;  
+	text-decoration: none;  
+	font: 16px/30px arial, verdana, Roboto;  
+	color: gray;  
+}  
+#menu li ul{  
+	position: absolute;  
+	top: 80px;  
+	margin: 0;  
+	padding: 0;  
+	width: 150px;
+	visibility: hidden;
+	border-top: none; 
+	list-style: none;
+	background: white;  
+	white-space: nowrap;  
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3); 
+	transition: all 0.2s ease-in;
+}  
+#menu li:hover ul{  
+	top: 50px;
+	visibility: visible;
+}  
+#menu li:hover a{  
+	color: #369;  
+	transition: all 0.2s ease-in-out;
+}  
+#menu li:hover ul li {  
+	color: #369;  
+	display: block;  
+	width: 100%;  
+}  
+#menu li:hover ul li a:hover{  
+	/*background: rgb(230,230,230);*/
+	background-color: #E3F2FD;
+	font-weight: bold;
+} 
+
+#menu li a{  
+	/*background: rgb(230,230,230);*/
+	color: #369;
+} 
+
+.modal-body{
+	color: #369;
+}
+.modal-title{
+	color: #369;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+button{
+	width: 135px;
+}
+
+.btn-success{
+	background-color: #369;
+	border: #369;
+}
+

@@ -1,0 +1,54 @@
+	html, body{
+		height: 100%;
+	}
+
+	#cabecalho_usuarios{
+		font-size: 30px;
+		color: #369;
+		font-weight: bold;
+	}
+
+	#fundoTabela{
+		background-color: whitesmoke;
+		opacity: 0.7;
+		border-radius: 5px;
+		padding: 10px;
+	}
+
+
+	body { 
+		background-image: url(../img/fundoHome.jpg);
+		background-position: center center;
+		background-repeat:  no-repeat;
+		background-attachment: fixed;
+		background-size:  cover;
+		background-color: #999;
+	}
+
+	div, body{
+		margin: 0;
+		padding: 0;
+		font-family: exo, sans-serif;
+	}
+	.wrapper {
+		height: 100%; 
+		width: 100%; 
+	}
+
+	.message {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%; 
+		height:45%;
+		bottom: 0; 
+		display: block;
+		position: absolute;
+		background-color: rgba(0,0,0,0.6);
+		color: #fff;
+		padding: 0.5em;
+	}
+
+	#alinharCenter{
+		text-align: center;
+	}
